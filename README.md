@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-  <img src="https://media.licdn.com/dms/image/D4D12AQH5i_pk9_lOGw/article-cover_image-shrink_720_1280/0/1697089776871?e=2147483647&v=beta&t=_S2qYzhyUMPWyqRaNghRycz5jNekKZzWQCEisTNR0k0" alt="MasterHead" width="1200" height="300">
+  <img src="https://media.licdn.com/dms/image/D4D12AQH5i_pk9_lOGw/article-cover_image-shrink_720_1280/0/1697089776871?e=2147483647&v=beta&t=_S2qYzhyUMPWyqRaNghRycz5jNekKZzWQCEisTNR0k0" alt="MasterHead" width="1000" height="250">
 </a>
 <h1 align="center">Hi 👋, I'm Anshu kumari, Second-year Student at 📍 SGVU 🏫 pursuing B.Tech Computer Science Engineering 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Science 💻</h1>
 <h3 align="center">"I am a passionate frontend developer from India who also works as a data analyst."</h3>
@@ -9,6 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu7485&label=Profile%20views&color=0e75b6&style=flat" alt="anshu7485" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
+-  💬 Ask me about **Python, HTML, CSS, Machine Learning**
+
+- 📫 How to reach me **kumaruanshu2436@gmail.com**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/anshu-k-446653251/](https://www.linkedin.com/in/anshu-k-446653251/)
 
