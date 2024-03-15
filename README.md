@@ -1,7 +1,7 @@
 <a href="https://rishavchanda.io">
   <img src="https://media.licdn.com/dms/image/D4D12AQH5i_pk9_lOGw/article-cover_image-shrink_720_1280/0/1697089776871?e=2147483647&v=beta&t=_S2qYzhyUMPWyqRaNghRycz5jNekKZzWQCEisTNR0k0" alt="MasterHead" width="1000" height="250">
 </a>
-<h1 align="center">Hi 👋, I'm Anshu kumari, Second-year Student at 📍 SGVU 🏫 pursuing B.Tech Computer Science Engineering 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Science 💻</h1>
+<h3 align="center">Hi 👋, I'm Anshu kumari, Second-year Student at 📍 SGVU 🏫 pursuing B.Tech Computer Science Engineering 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Science 💻</h3>
 <h3 align="center">"I am a passionate frontend developer from India who also works as a data analyst."</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
