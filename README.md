@@ -27,9 +27,17 @@
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/anshu-k-446653251/)
 <br/>
 
+
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
+
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+|---|---|---|---|---|---|
+| ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) | ![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=google-colab&logoColor=white) | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat&logo=fastapi&logoColor=white) | ![CVZONE](https://img.shields.io/badge/-CVZONE-FF8C00?style=flat) | ![face_recognition](https://img.shields.io/badge/-face_recognition-6495ED?style=flat) | ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-FFD700?style=flat) | |
+
 
 <p>
   <!-- Programming Languages -->
@@ -60,18 +68,6 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="REST API" width="40"/>
 </p>
 
-<!-- Text-only for these: CVZONE, face_recognition, Prompt Engineering -->
-<p>
-  <b>CVZONE</b> | <b>face_recognition</b> | <b>Prompt Engineering</b>
-</p>
-
-<!-- Skill Highlights -->
-<ul>
-  <li><b>Statistics:</b> Hypothesis Testing, Time Series, Probability Distributions, Statistical Inference & Confidence Intervals, Correlation & Covariance</li>
-  <li><b>Machine Learning:</b> Regression (Linear, Logistic), Classification (Decision Trees, Random Forest, SVM, Naive Bayes, k-NN), PCA, Clustering (k-means), Ensemble Methods, Model Evaluation, Hyperparameter Tuning (Grid/Random Search)</li>
-  <li><b>NLP:</b> Text Processing, Web Scraping, Sentiment Analysis, Text Vectorization</li>
-  <li><b>Deep Learning:</b> ANN, CNN, RNN, LSTM/GRU, Text Mining</li>
-</ul>
 ---
 
 ### 📊 My GitHub Stats
