@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&pause=1000&color=F7971E,FFD200,21D4FD,B721FF&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anshu+Kumari!;Frontend+Developer+%7C+Data+Analyst;B.Tech+CS+Student+at+SGVU" alt="Typing SVG" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshu7485&label=Profile%20views&color=21D4FD&style=flat"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Learning-Machine%20Learning-F7971E?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ask%20me%20about-Python%2C%20HTML%2C%20CSS%2C%20ML-21D4FD?style=for-the-badge"/>
@@ -83,6 +85,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshu7485&label=Profile%20views&color=21D4FD&style=flat"/>
-</p>
+
