@@ -21,15 +21,8 @@
 - 🌱 Currently learning **Machine Learning**
 - 💬 Ask me about **Python, HTML, CSS, Machine Learning**
 - 📫 Reach me: **kumaruanshu2436@gmail.com**
-- 👨‍💻 [LinkedIn Profile](https://www.linkedin.com/in/anshu-k-446653251/)
-
----
-
-### 🌐 Connect with me:
-[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/anshu-k-446653251/)
-<br/>
-
-
+- [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/anshu-k-446653251/)
+  
 ---
 
 ## 🛠️ Languages & Tools
