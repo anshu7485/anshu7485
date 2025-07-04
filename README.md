@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **kumaruanshu2436@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/anshu-k-446653251/](https://www.linkedin.com/in/anshu-k-446653251/)
+- 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/anshu-k-446653251/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
