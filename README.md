@@ -30,15 +30,48 @@
 ---
 
 ### 🛠️ Languages and Tools
-<span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+
+<p>
+  <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-</span>
 
+  <!-- Tools & Platforms -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40"/>
+
+  <!-- Libraries/Frameworks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40"/>
+  <!-- CVZone, face_recognition, OpenCV, MongoDB, Prompt Engineering (text only as icon not available) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="REST API" width="40"/>
+</p>
+
+<!-- Text-only for these: CVZONE, face_recognition, Prompt Engineering -->
+<p>
+  <b>CVZONE</b> | <b>face_recognition</b> | <b>Prompt Engineering</b>
+</p>
+
+<!-- Skill Highlights -->
+<ul>
+  <li><b>Statistics:</b> Hypothesis Testing, Time Series, Probability Distributions, Statistical Inference & Confidence Intervals, Correlation & Covariance</li>
+  <li><b>Machine Learning:</b> Regression (Linear, Logistic), Classification (Decision Trees, Random Forest, SVM, Naive Bayes, k-NN), PCA, Clustering (k-means), Ensemble Methods, Model Evaluation, Hyperparameter Tuning (Grid/Random Search)</li>
+  <li><b>NLP:</b> Text Processing, Web Scraping, Sentiment Analysis, Text Vectorization</li>
+  <li><b>Deep Learning:</b> ANN, CNN, RNN, LSTM/GRU, Text Mining</li>
+</ul>
 ---
 
 ### 📊 My GitHub Stats
