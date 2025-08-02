@@ -83,7 +83,7 @@
 
 ---
 
-## 🌟 Contribution Graph
+## 🌟 Contribution Graphs
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshu7485&theme=react-dark&area=true&hide_border=true" width="98%"/>
