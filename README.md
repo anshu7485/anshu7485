@@ -69,6 +69,13 @@
 </div>
 
 ---
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshu7485&theme=radical" alt="GitHub Trophies" />
+</p> 
+
+---
+
 
 ## 📊 GitHub Stats
 
