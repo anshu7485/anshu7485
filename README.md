@@ -70,17 +70,28 @@
 
 ---
 
-## 📈 GitHub Stats & Streak
+## 📊 GitHub Stats
 
-<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=anshu7485&show_icons=true&theme=tokyonight" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshu7485&theme=tokyonight" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu7485&layout=compact&theme=tokyonight" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=anshu7485&limit=5&theme=dark&combine_all_yearly_contributions=true" width="400"/>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshu7485&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu7485&layout=compact&theme=radical" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anshu7485&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="98%"/>
-
-</div>
-
+---
 ---
 
 ## 🌟 Contribution Graphs
