@@ -99,7 +99,6 @@
 </table>
 
 ---
----
 
 ## 🌟 Contribution Graphs
 
