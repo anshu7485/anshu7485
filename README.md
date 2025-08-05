@@ -25,7 +25,7 @@
 
 - 🎓 **B.Tech CS student at SGVU**
 - 🚀 Learning **Machine Learning, Flask, Data Analysis**
-- 💬 Ask me about **Python, HTML, CSS, ML, DL**
+- 💬 Ask me about **Python, HTML, CSS, ML, DL, NLP**
 - 📧 Reach me at: **kumaruanshu2436@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anshu-k-446653251/)
 
